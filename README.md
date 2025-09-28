@@ -6,8 +6,8 @@ eventually i will place a guide here on how to do html/css so that you guys dont
 
 
 level template:
-
-```<!DOCTYPE html>
+```
+<!DOCTYPE html>
 
 <html>
 	<head>
