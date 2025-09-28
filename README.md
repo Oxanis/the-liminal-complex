@@ -12,7 +12,8 @@ level template:
 <html>
 	<head>
 		<link rel="stylesheet" href="/style.css">
+		<title>THE COMPLEX - level (x)
 	</head>
-  <h1>Level x</h1>
+  <h1>Level (x)</h1>
 </html>
 ```
