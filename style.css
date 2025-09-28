@@ -21,7 +21,7 @@ h3 {
   color: rgb(91, 54, 0);
 }
 figure {
-  border: 1px #cccccc solid;
+  border: 1px rgb(255, 237, 205) solid;
   padding: 4px;
   margin: auto;
 }
