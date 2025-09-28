@@ -8,6 +8,7 @@ body {
 p {
   color: rgb(111, 71, 0);
   font-size: 18px;
+  padding-right: 7px;
 }
 p em {
   color: rgb(111, 71, 0);
