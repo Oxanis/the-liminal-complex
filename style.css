@@ -7,6 +7,11 @@ p {
   color: rgb(111, 71, 0);
   font-size: 18px;
 }
+p em {
+  color: rgb(111, 71, 0);
+  font-size: 18px;
+  font-style: bold;
+}
 h1 {
   color: rgb(91, 54, 0);
   font-size: 75px;
