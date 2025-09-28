@@ -7,9 +7,14 @@ p {
 h1 {
   color: rgb(91, 54, 0);
   font-size: 90px
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 h2 {
   color: rgb(91, 54, 0);
+  font-size: 75px
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 h3 {
   color: rgb(91, 54, 0);
