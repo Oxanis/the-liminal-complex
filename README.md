@@ -7,7 +7,7 @@ eventually i will place a guide here on how to do html/css so that you guys dont
 
 level template:
 
-<!DOCTYPE html>
+```<!DOCTYPE html>
 
 <html>
 	<head>
@@ -15,3 +15,4 @@ level template:
 	</head>
   <h1>Level x</h1>
 </html>
+```
