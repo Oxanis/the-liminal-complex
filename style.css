@@ -1,5 +1,7 @@
 body {
   background-color: rgb(255, 237, 205);
+  margin-left: 160px;
+  margin-right: 160px;
 }
 p {
   color: rgb(111, 71, 0);
