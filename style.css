@@ -29,8 +29,8 @@ h3 {
 }
 figure {
   border: 2px rgb(91, 54, 0) solid;
-  padding: 18px;
-  margin: auto;
+  padding: 4px;
+  margin: 18px;
 }
 figcaption {
   background-color: rgb(91, 54, 0);
