@@ -18,6 +18,10 @@ p a {
   color: rgb(0, 50, 255);
   font-size: 18px;
 }
+p a em {
+  font-size: 18px;
+  font-weight: bold;
+}
 h1 {
   color: rgb(91, 54, 0);
   font-size: 75px;
