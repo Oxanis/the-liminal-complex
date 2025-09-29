@@ -32,7 +32,7 @@ Detailed Level Template (Full Page Template):
 		<h3>DESCRIPTION</h3>
 		<p>
 			<figure style="float:right;">
-				<img src="/levels/9/level9image0.jpg" style="width:320px; height:240px;">
+				<img src="/levels/(x)/(IMAGEFILENAME)" style="width:320px; height:240px;"> <!Replace the (x) in the src URL with the level number of this page and replace the (IMAGEFILENAME) in the src URL with the filename of the image, including the file extension.>
 				<figcaption>A picture of (insert description) in Level (x)</figcaption>
 			</figure>
 		</p><p>
@@ -49,8 +49,8 @@ Detailed Level Template (Full Page Template):
 		
 		<p></p><p></p><p></p>
 		
-		<a href="/levels/10">Next level</a><p></p> <!Replace the number in the href URL with the level number of this page plus one.>
-		<a href="/levels/8">Previous level</a><p></p> <!Replace the number in the href URL with the level number of this page minus one.>
+		<a href="/levels/(x)">Next level</a><p></p> <!Replace the (x) in the href URL with the level number of this page plus one.>
+		<a href="/levels/(x)">Previous level</a><p></p> <!Replace the (x) in the href URL with the level number of this page minus one.>
 		<a href="/levels">Levels page</a><p></p> <!Keep this one the same!>
 		<h3>Credits</h3>
 		<p>Written by: Your name(s) here</p>
