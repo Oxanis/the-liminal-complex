@@ -1,11 +1,8 @@
-# the complex
+# The Complex Wiki
 
 eventually i will place a guide here on how to do html/css so that you guys dont need to look too much up
 
-
-
-
-level template:
+Versatile Level Template (Header and Title Only):
 ```
 <!DOCTYPE html>
 
@@ -17,3 +14,48 @@ level template:
   <h1>Level (x)</h1>
 </html>
 ```
+Detailed Level Template (Full Page Template):
+```
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<link rel="stylesheet" href="/style.css">
+		<title>THE COMPLEX - Level (x)</title>
+	</head>
+	<body>
+	  <h1>Level (x)</h1>
+		<h2>CLASS (x) DIFFICULTY</h2>
+		<p><em>- Point 1</em></p>
+		<p><em>- Point 2</em></p>
+		<p><em>- Point 3</em></p>
+		<h3>DESCRIPTION</h3>
+		<p>
+			<figure style="float:right;">
+				<img src="/levels/9/level9image0.jpg" style="width:320px; height:240px;">
+				<figcaption>A picture of (insert description) in Level (x)</figcaption>
+			</figure>
+		</p><p>
+			Insert description here.
+		</p>
+		<h3>ENTRANCES</h3>
+		<p>
+			Insert entrances here.
+		</p>
+		<h3>EXITS</h3>
+		<p>
+			Insert exits here.
+		</p>
+		
+		<p></p><p></p><p></p>
+		
+		<a href="/levels/10">Next level</a><p></p> <!Replace the number in the href URL with the level number of this page plus one.>
+		<a href="/levels/8">Previous level</a><p></p> <!Replace the number in the href URL with the level number of this page minus one.>
+		<a href="/levels">Levels page</a><p></p> <!Keep this one the same!>
+		<h3>Credits</h3>
+		<p>Written by: Your name(s) here</p>
+		<p>Photo by: Photographer's name(s) here</p>
+	</body>
+</html>
+```
+(Detailed Level Template made by Monochromasity.)
