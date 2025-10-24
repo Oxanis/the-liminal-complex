@@ -35,6 +35,11 @@ h2 {
 }
 h3 {
   color: rgb(91, 54, 0);
+  font-size: 22px;
+}
+h4 {
+  color: rgb(91, 54, 0);
+  font-size: 18px;
 }
 figure {
   border: 2px rgb(91, 54, 0) solid;
